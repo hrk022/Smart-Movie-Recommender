@@ -1,5 +1,0 @@
-streamlit
-pandas
-nltk
-requests
-scikit-learn
